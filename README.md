@@ -4,10 +4,8 @@ An interactive, single-file HTML explainer of LoRA (Low-Rank Adaptation): why fi
 
 ## Viewing it
 
-GitHub shows HTML files as source, so to see the rendered page:
-
+- **Live page**: https://audicar.github.io/lora-visual-summary/ (GitHub Pages)
 - **Locally**: download [`lora-from-zero.html`](lora-from-zero.html) and open it in a browser — it is fully self-contained (no build step, no dependencies beyond Google Fonts).
-- **In the browser without cloning**: open the file in the repo, press the **Raw** button, and save the page — or use a raw-content renderer if the repo is ever made public.
 
 ## Sources
 
